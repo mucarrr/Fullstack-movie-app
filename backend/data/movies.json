@@ -1,0 +1,238 @@
+[
+    {
+        "title": "Inception",
+        "description": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "rating": "8.8",
+        "year": "2010",
+        "director": "Christopher Nolan",
+        "duration": "2h 28m",
+        "language": "English",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ],
+        "genre": [
+            "Sci-Fi",
+            "Action",
+            "Adventure"
+        ],
+        "id": "5a0a7ac2-a166-4e82-bcc2-a3d52b749eab"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "genre": [
+            "Drama",
+            "Crime"
+        ],
+        "rating": "9.3",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "director": "Frank Darabont",
+        "cast": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ],
+        "duration": "2h 22m",
+        "language": "English",
+        "id": "316b40c3-37b9-4d6a-a022-1eb20ab62a27"
+    },
+    {
+        "title": "Avengers: Age of Ultron",
+        "year": "2015",
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "rating": "7.3",
+        "description": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong.",
+        "director": "Joss Whedon",
+        "cast": [
+            "Robert Downey Jr.",
+            "Scarlett Johansson",
+            "Mark Ruffalo"
+        ],
+        "duration": "2h 21m",
+        "language": "English",
+        "id": "1bc38e79-4e59-4b28-a1f6-d9692920c551"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": "2019",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "rating": "8.4",
+        "description": "After the devastating events of Infinity War, the Avengers must assemble once more to undo Thanos' actions and restore balance to the universe.",
+        "director": "Anthony Russo, Joe Russo",
+        "cast": [
+            "Chris Evans",
+            "Chris Hemsworth",
+            "Scarlett Johansson"
+        ],
+        "duration": "3h 2m",
+        "language": "English",
+        "id": "6d9b790f-9009-47d9-be34-3309cd537847"
+    },
+    {
+        "title": "The Dark Knight",
+        "year": "2008",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "rating": "9.0",
+        "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability.",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ],
+        "duration": "2h 32m",
+        "language": "English",
+        "id": "7f8b9c0d-1e2f-3g4h-5i6j-7k8l9m0n1o2p"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "genre": [
+            "Fantasy",
+            "Adventure",
+            "Drama"
+        ],
+        "rating": "9.0",
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "director": "Peter Jackson",
+        "cast": [
+            "Elijah Wood",
+            "Viggo Mortensen",
+            "Ian McKellen"
+        ],
+        "duration": "3h 21m",
+        "language": "English",
+        "id": "8g9h0i1j-2k3l-4m5n-6o7p-8q9r0s1t2u3v"
+    },
+    {
+        "title": "The Matrix",
+        "year": "1999",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "rating": "8.7",
+        "description": "A computer programmer discovers that reality as he knows it is a simulation created by machines, and joins a rebellion to break free.",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "cast": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ],
+        "duration": "2h 16m",
+        "language": "English",
+        "id": "9h0i1j2k-3l4m-5n6o-7p8q-9r0s1t2u3v4w"
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "rating": "8.9",
+        "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "director": "Quentin Tarantino",
+        "cast": [
+            "John Travolta",
+            "Samuel L. Jackson",
+            "Uma Thurman"
+        ],
+        "duration": "2h 34m",
+        "language": "English",
+        "id": "0i1j2k3l-4m5n-6o7p-8q9r-0s1t2u3v4w5x"
+    },
+    {
+        "title": "Forrest Gump",
+        "year": "1994",
+        "genre": [
+            "Drama",
+            "Comedy"
+        ],
+        "rating": "8.8",
+        "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+        "director": "Robert Zemeckis",
+        "cast": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ],
+        "duration": "2h 22m",
+        "language": "English",
+        "id": "1j2k3l4m-5n6o-7p8q-9r0s-1t2u3v4w5x6y"
+    },
+    {
+        "title": "Interstellar",
+        "year": "2014",
+        "genre": [
+            "Sci-Fi",
+            "Adventure",
+            "Drama"
+        ],
+        "rating": "8.6",
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ],
+        "duration": "2h 49m",
+        "language": "English",
+        "id": "2k3l4m5n-6o7p-8q9r-0s1t-2u3v4w5x6y7z"
+    },
+    {
+        "title": "yeni",
+        "description": "yeni",
+        "rating": "8.8",
+        "year": "2010",
+        "director": "yeni",
+        "duration": "2h",
+        "language": "English",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ],
+        "genre": [
+            "Sci-Fi",
+            "Action",
+            "Adventure"
+        ],
+        "id": "c192dd7c-9e42-4806-88ce-e5b7e73a5773"
+    },
+    {
+        "title": "yeni",
+        "description": "yeni",
+        "rating": "8.8",
+        "year": "2010",
+        "director": "yeni",
+        "duration": "2h",
+        "language": "English",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ],
+        "genre": [
+            "Sci-Fi",
+            "Action",
+            "Adventure"
+        ],
+        "id": "4dfdbde9-659b-485a-abb3-ee35586e1845"
+    }
+]
