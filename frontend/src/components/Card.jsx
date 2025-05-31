@@ -6,9 +6,9 @@ const Card = ({movie}) => {
     const r = movie.rating;
     const color = r > 9 ? 'bg-red-500' : r > 8 ? 'bg-green-500' : 'bg-yellow-500';
   return (
-    <Link to={`/movie/${movie.id}`} className='flex p-4 border shadow bg-white rounded-lg   '>
+    <Link to={`/movie/${movie.id}`} className='flex p-4 border shadow bg-white rounded-lg mx-auto max-w-[500px]  '>
         <div className='relative w-1/2'>
-            <img src={`https://picsum.photos/seed/${movie.id}/200/300`} alt='poster' className='w-full h-full object-cover rounded-lg'></img>
+            <img src={movie.image} alt='poster' className='w-full h-full object-cover rounded-lg'></img>
             <span className={`absolute top-[-15px] right-[-15px] text-white px-2 py-1 rounded-full ${color} h-8 w-8 flex items-center justify-center`}>
                 {movie.rating}
             </span>

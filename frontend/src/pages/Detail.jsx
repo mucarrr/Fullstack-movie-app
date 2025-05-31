@@ -22,7 +22,7 @@ const Detail = () => {
         
         <div className="flex flex-col gap-10 max-w-[500px] mx-auto">
           <div className='flex items-center justify-center'>
-            <img src={`https://picsum.photos/seed/${data.id}/200/300`} alt="" />
+            <img src={data.image} alt="" width={300} height={300}/>
           </div>
           <div className='flex flex-col gap-10 items-center'>
             <div className='flex flex-col gap-3 bg-white p-5 rounded-md'>

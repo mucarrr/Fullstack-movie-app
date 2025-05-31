@@ -14,7 +14,7 @@ function Home() {
   return (
     <div>
       <Hero />
-      <div className='px-10 md:px-20 py-10 bg-[#A830E5]'> 
+      <div className='px-10 md:px-20 py-10 bg-[#1A2238]'> 
       {
         isLoading ? (<div className='flex justify-center items-center h-screen'>Loading...</div>) : error ? <Error info={error} refetch={refetch}/> : (
           <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
