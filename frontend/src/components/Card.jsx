@@ -20,7 +20,7 @@ const Card = ({movie}) => {
             <h3 className='text-xl font-bold'>
                 {movie.title}
             </h3>
-            <div className='flex gap-2'>
+            <div className='flex flex-col gap-2'>
                 <p className='flex gap-2 flex-wrap'>
                     {movie.genre.map((genre) => (
                         <span key={genre} className='text-sm bg-gray-200 px-2 py-1 rounded-full'>
@@ -28,6 +28,7 @@ const Card = ({movie}) => {
                         </span>
                     ))}
                 </p>
+                <div className='text-sm bg-red-200 px-2 py-1 rounded-full max-w-[100px] text-center'>{movie.language}</div>
             </div>
         </div>
     </Link>
