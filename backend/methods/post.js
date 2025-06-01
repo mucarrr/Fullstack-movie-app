@@ -38,7 +38,8 @@ const postRequest = async(req, res) => {
         res.writeHead(201);
         return res.end(JSON.stringify({
             success: true,
-            message: "Movie created successfully"
+            message: "Movie created successfully",
+            id: body.id
         }))
     }
     res.writeHead(404);
