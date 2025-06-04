@@ -16,7 +16,14 @@ const Inputs = () => {
                 />
                 <label 
                     htmlFor={input.name} 
-                    className='absolute left-4 top-4 text-sm font-normal text-gray-500 duration-300 transform bg-gray-200 px-2 peer-focus:-top-2.5 '
+                    className="absolute left-4 top-4 text-sm font-normal text-gray-500 duration-300 transform bg-gray-200 px-2
+                      peer-focus:-top-2.5
+                      peer-focus:text-xs
+                      peer-placeholder-shown:top-4
+                      peer-placeholder-shown:text-sm
+                      peer-not-placeholder-shown:-top-2.5
+                      peer-not-placeholder-shown:text-xs
+                    "
                 >
                     {input.label}
                 </label>
